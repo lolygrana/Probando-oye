@@ -31,6 +31,8 @@ audio{
 .cards{
     background-color: rgb(244, 241, 241);
     padding-bottom: 50px;
+    min-height: 81.5%;
+    position: relative;
 }
 .tituloCanciones{
     padding-left: 23%;

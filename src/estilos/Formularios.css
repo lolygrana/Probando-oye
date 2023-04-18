@@ -13,6 +13,8 @@ div.formularioIniciar{
         margin-top: 38px;
         padding-bottom: 50px;
         background-color: rgb(244, 241, 241);
+        min-height: 76.5%;
+        position: relative;
 }
 .tituloForm{
     font-family: 'Vollkorn', serif;
