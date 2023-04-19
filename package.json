@@ -5,8 +5,10 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
+    "build": "vite build --base=/Proyecto_oye/",
+    "preview": "vite preview",
+    "deploy": "gh-pages -d dist",
+    "predeply": "npm run build"
   },
   "dependencies": {
     "@popperjs/core": "^2.11.7",
