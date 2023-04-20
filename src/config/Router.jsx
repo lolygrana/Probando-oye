@@ -29,10 +29,6 @@ export const router = createBrowserRouter([
                 path: "Registro",
                 element: <Registro />,
             },
-            // {
-            //     path: "Contacto",
-            //     element: <Contacto />
-            // },
         ],
     },
 ]);
